@@ -1,16 +1,24 @@
-# React + Vite
+# Creatorverse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React CRUD application for managing favorite content creators using Supabase.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add creators
+- Edit creators
+- Delete creators
+- View creator information
+- Supabase database integration
+- Responsive card layout
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Supabase
+- JavaScript
+- CSS
+- Vite
 
-## Expanding the ESLint configuration
+## Created By
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tobi Ogunade
